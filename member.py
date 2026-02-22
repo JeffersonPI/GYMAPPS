@@ -259,4 +259,4 @@ PT Sessions : {len(booked)}
 PT Used     : {len(self.pt_history)}
 Schedules   : {schedules}
 Total Paid  : Rp {self.total_payment}
----------------------------------
+"""
